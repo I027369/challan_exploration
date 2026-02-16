@@ -1,20 +1,20 @@
-Indian Traffic E-Challan Daily Dataset (2015–2026)<br>
+# Indian Traffic E-Challan Daily Dataset (2015–2026)<br>
 
-About Dataset<br>
-Context<br>
+## About Dataset<br>
+### Context<br>
 This dataset provides a daily granularity of traffic challan (fine) issuance and collection across India. The data is sourced from the Parivahan E-Challan system, which is the centralized digital traffic enforcement solution used by the Government of India. It captures the volume of traffic violations, the financial value of these fines, and their settlement status (paid vs. pending vs. court).<br>
 
 ----------------------------------------------------------
 
 
-If you have installed poetry simply run the program using followng command
--> "poetry run python sample.py"
+If you have installed poetry simply run the program using followng command<br>
+```"poetry run python sample.py"```
 
 Dataset Info:
 <class 'pandas.DataFrame'><br>
 RangeIndex: 4061 entries, 0 to 4060<br>
 Data columns (total 10 columns):<br>
- #   Column           Non-Null Count  Dtype<br>
+ ### Column           Non-Null Count  Dtype<br>
 ---  ------           --------------  -----
  0   date             4061 non-null   datetime64[us]<br>
  1   totalChallan     4061 non-null   int64<br>
