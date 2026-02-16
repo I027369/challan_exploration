@@ -1,5 +1,5 @@
 If you have installed poetry simply run the program using followng command
-poetry run python sample.py
+-> "poetry run python sample.py"
 
 Dataset Info:
 <class 'pandas.DataFrame'>
