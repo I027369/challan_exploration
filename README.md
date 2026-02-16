@@ -8,7 +8,7 @@ This dataset provides a daily granularity of traffic challan (fine) issuance and
 
 
 If you have installed poetry simply run the program using followng command<br>
-```"poetry run python sample.py"```
+```"poetry run python src/eda.py"```
 
 Dataset Info:
 <class 'pandas.DataFrame'><br>
@@ -30,13 +30,14 @@ dtypes: datetime64[us](1), int64(9)<br>
 memory usage: 317.4 KB<br>
 None<br>
 
-![alt text](image.png)
 
-![alt text](image-1.png)
+![alt text](image-5.png)
 
-![alt text](image-2.png)
+![alt text](image-6.png)
 
-![alt text](image-3.png)
+![alt text](image-7.png)
 
-![alt text](image-4.png)
+![alt text](image-8.png)
+
+![alt text](image-9.png)
 
