@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual env
+.venv/
+.env/
+
+# Poetry cache
+.cache/
+
+# macOS
+.DS_Store
+
+# Data files (optional - recommended)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
